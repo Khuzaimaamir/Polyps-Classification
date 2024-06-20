@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+tensorflow
+plotly
+Pillow
+sqlite3
+keras
+ultralytics
+opencv-python-headless
+pyperclip
+requests
